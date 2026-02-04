@@ -99,7 +99,7 @@ Excel – Data cleaning and preprocessing
 
 Data Modelling : https://github.com/SwapnajitMohanty02/automotive-sales-insights-powerbi/blob/main/images/data-models.png
 
-Dashboard 1(Overview) : 
+Dashboard 1(Overview) : https://github.com/SwapnajitMohanty02/automotive-sales-insights-powerbi/blob/main/images/dashboard-overview.png
 
 Dashboard 2(Details) : 
 
