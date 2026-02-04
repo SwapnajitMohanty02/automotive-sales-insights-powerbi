@@ -21,53 +21,53 @@
 
 📊 Key Performance Metrics (From Dashboard)
 
-  -  Metric	Value
+  -  Metric	Value : 
 
-   > YTD Total Sales	: $371.2M
-
-   > YTD Sales Growth : +23.59% ($70.8M)
-
-   > MTD Total Sales :	$54.28M
-
-   > YTD Average Car Price :	$28.0K
-
-   > Avg Price Change :	-0.79% (-$0.22K)
-
-   > MTD Avg Price :	$28.26K
-
-   > YTD Cars Sold :	13K units
-
-   > Cars Sold Growth :	+24.57% (2.62K units)
-
-   > MTD Cars Sold :	1.92K units
+      > YTD Total Sales	: $371.2M
+   
+      > YTD Sales Growth : +23.59% ($70.8M)
+   
+      > MTD Total Sales :	$54.28M
+   
+      > YTD Average Car Price :	$28.0K
+   
+      > Avg Price Change :	-0.79% (-$0.22K)
+   
+      > MTD Avg Price :	$28.26K
+   
+      > YTD Cars Sold :	13K units
+   
+      > Cars Sold Growth :	+24.57% (2.62K units)
+   
+      > MTD Cars Sold :	1.92K units
 
 📈 Key Insights & Findings
 
-    💰 Sales Performance
+    >💰 Sales Performance :
     
        - The business generated $371.2M in YTD sales, reflecting a strong 23.59% growth compared to the previous period.
         
        - Monthly sales contribution remains strong with $54.28M MTD sales.
         
-    🚘 Volume & Pricing
+    >🚘 Volume & Pricing
     
        - A total of 13,261 cars were sold YTD, showing a healthy 24.57% growth.
         
        - Despite higher volumes, average car price dropped slightly by 0.79%, indicating competitive pricing or discounts to drive demand.
     
-    🚗 Body Style Analysis
+    >🚗 Body Style Analysis
     
        - SUVs and Hatchbacks contribute the largest share of total sales.
       
        - Sedans and Passenger cars follow as secondary contributors.
       
-    🎨 Color Preference
+    >🎨 Color Preference
     
        - Pale White is the most preferred car color.
         
        - Black ranks second, followed by Red, showing clear customer color trends.
     
-    🌍 Regional Performance
+    >🌍 Regional Performance
     
        - Sales are distributed across multiple dealer regions in the United States, with notable contributions from regions such as:
     
@@ -81,7 +81,7 @@
             
             Middletown
     
-    🏭 Company-wise Performance
+    >🏭 Company-wise Performance
     
        - Buick leads total sales with $7.8M, contributing 2.11% of YTD sales.
         
