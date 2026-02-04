@@ -45,9 +45,9 @@
    
    💰 Sales Performance
    
-      The business generated $371.2M in YTD sales, reflecting a strong 23.59% growth compared to the previous period.
+   - The business generated $371.2M in YTD sales, reflecting a strong 23.59% growth compared to the previous period.
       
-      Monthly sales contribution remains strong with $54.28M MTD sales.
+   - Monthly sales contribution remains strong with $54.28M MTD sales.
    
    🚘 Volume & Pricing
    
