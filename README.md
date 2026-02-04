@@ -1,8 +1,10 @@
 # automotive-sales-insights-powerbi
 🚗 Car Sales Analysis Dashboard (Power BI)
+
 📌 Project Overview
 
 This project presents an interactive Car Sales Dashboard built using Power BI, designed to analyze sales performance, pricing trends, and customer preferences across regions, body styles, and colors.
+
 The dashboard provides Year-To-Date (YTD) and Month-To-Date (MTD) insights to support data-driven business decisions.
 
 🎯 Project Objectives
@@ -18,17 +20,29 @@ Identify high-performing body styles, colors, and companies
 Analyze regional sales distribution
 
 📊 Key Performance Metrics (From Dashboard)
+
 Metric	Value
-YTD Total Sales	$371.2M
-YTD Sales Growth	+23.59% ($70.8M)
-MTD Total Sales	$54.28M
-YTD Average Car Price	$28.0K
-Avg Price Change	-0.79% (-$0.22K)
-MTD Avg Price	$28.26K
-YTD Cars Sold	13K units
-Cars Sold Growth	+24.57% (2.62K units)
-MTD Cars Sold	1.92K units
+
+YTD Total Sales	: $371.2M
+
+YTD Sales Growth : +23.59% ($70.8M)
+
+MTD Total Sales :	$54.28M
+
+YTD Average Car Price :	$28.0K
+
+Avg Price Change :	-0.79% (-$0.22K)
+
+MTD Avg Price :	$28.26K
+
+YTD Cars Sold :	13K units
+
+Cars Sold Growth :	+24.57% (2.62K units)
+
+MTD Cars Sold :	1.92K units
+
 📈 Key Insights & Findings
+
 💰 Sales Performance
 
 The business generated $371.2M in YTD sales, reflecting a strong 23.59% growth compared to the previous period.
@@ -81,10 +95,10 @@ Power BI – Dashboard creation & visualization
 
 Excel – Data cleaning and preprocessing
 
-📂 Project Structure
-📁 Car-Sales-Dashboard
-│── 📄 Car Sales Dashboard.pbix
-│── 📄 README.md
+📊 Dashboard Visuals
+
+Data Modelling
+
 
 📌 Business Value
 
