@@ -42,57 +42,58 @@
       > MTD Cars Sold :	1.92K units
 
 📈 Key Insights & Findings
+   
    💰 Sales Performance
-
-The business generated $371.2M in YTD sales, reflecting a strong 23.59% growth compared to the previous period.
-
-Monthly sales contribution remains strong with $54.28M MTD sales.
-
-🚘 Volume & Pricing
-
-A total of 13,261 cars were sold YTD, showing a healthy 24.57% growth.
-
-Despite higher volumes, average car price dropped slightly by 0.79%, indicating competitive pricing or discounts to drive demand.
-
-🚗 Body Style Analysis
-
-SUVs and Hatchbacks contribute the largest share of total sales.
-
-Sedans and Passenger cars follow as secondary contributors.
-
-🎨 Color Preference
-
-Pale White is the most preferred car color.
-
-Black ranks second, followed by Red, showing clear customer color trends.
-
-🌍 Regional Performance
-
-Sales are distributed across multiple dealer regions in the United States, with notable contributions from regions such as:
-
-Austin
-
-Greenville
-
-Scottsdale
-
-Aurora
-
-Middletown
-
-🏭 Company-wise Performance
-
-Buick leads total sales with $7.8M, contributing 2.11% of YTD sales.
-
-Subaru ($6.4M) and Porsche ($4.6M) are other strong performers.
-
-Total YTD sales across all companies amount to $371.2M (100%).
+   
+      The business generated $371.2M in YTD sales, reflecting a strong 23.59% growth compared to the previous period.
+      
+      Monthly sales contribution remains strong with $54.28M MTD sales.
+   
+   🚘 Volume & Pricing
+   
+      A total of 13,261 cars were sold YTD, showing a healthy 24.57% growth.
+      
+      Despite higher volumes, average car price dropped slightly by 0.79%, indicating competitive pricing or discounts to drive demand.
+   
+   🚗 Body Style Analysis
+   
+      SUVs and Hatchbacks contribute the largest share of total sales.
+      
+      Sedans and Passenger cars follow as secondary contributors.
+      
+   🎨 Color Preference
+   
+      Pale White is the most preferred car color.
+      
+      Black ranks second, followed by Red, showing clear customer color trends.
+      
+   🌍 Regional Performance
+   
+      Sales are distributed across multiple dealer regions in the United States, with notable contributions from regions such as:
+      
+      Austin
+      
+      Greenville
+      
+      Scottsdale
+      
+      Aurora
+      
+      Middletown
+   
+   🏭 Company-wise Performance
+   
+      Buick leads total sales with $7.8M, contributing 2.11% of YTD sales.
+      
+      Subaru ($6.4M) and Porsche ($4.6M) are other strong performers.
+      
+      Total YTD sales across all companies amount to $371.2M (100%).
 
 🛠 Tools & Technologies Used
 
-    - Power BI – Dashboard creation & visualization
+- Power BI – Dashboard creation & visualization
     
-    - Excel – Data cleaning and preprocessing
+- Excel – Data cleaning and preprocessing
 
 📊 Dashboard Visuals
 
