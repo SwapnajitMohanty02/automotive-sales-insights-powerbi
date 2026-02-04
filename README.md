@@ -23,23 +23,23 @@
 
   -  Metric	Value
 
-    YTD Total Sales	: $371.2M
+   > YTD Total Sales	: $371.2M
 
-    YTD Sales Growth : +23.59% ($70.8M)
+   > YTD Sales Growth : +23.59% ($70.8M)
 
-    MTD Total Sales :	$54.28M
+   > MTD Total Sales :	$54.28M
 
-    YTD Average Car Price :	$28.0K
+   > YTD Average Car Price :	$28.0K
 
-    Avg Price Change :	-0.79% (-$0.22K)
+   > Avg Price Change :	-0.79% (-$0.22K)
 
-    MTD Avg Price :	$28.26K
+   > MTD Avg Price :	$28.26K
 
-    YTD Cars Sold :	13K units
+   > YTD Cars Sold :	13K units
 
-    Cars Sold Growth :	+24.57% (2.62K units)
+   > Cars Sold Growth :	+24.57% (2.62K units)
 
-    MTD Cars Sold :	1.92K units
+   > MTD Cars Sold :	1.92K units
 
 📈 Key Insights & Findings
 
